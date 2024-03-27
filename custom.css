@@ -1,0 +1,11 @@
+@media (min-width: 1000px) {
+    .div{
+        display: none;
+    }
+}
+@media (max-width: 1000px){
+    .dav{
+        display: none;
+    }
+}
+
